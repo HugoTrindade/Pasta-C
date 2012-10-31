@@ -1,0 +1,1 @@
+Desenvolver um programa para gerar um numero aleatorio de semente 890 calcular qual será o valor deste numero se for acrescido 23,9%.

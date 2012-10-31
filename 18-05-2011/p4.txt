@@ -1,0 +1,2 @@
+Desenvolver um programa para escrever os números multiplos de 23 e 92 considerando
+os números de 3 algarismo.

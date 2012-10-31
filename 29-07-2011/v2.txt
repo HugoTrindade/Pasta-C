@@ -1,0 +1,1 @@
+Gerar 2 vetores a e b, ambos com 5 elementos o primeiro com raiz igual a 30 o segundo com raiz 50, gerar um terceiro vetor "c" que corresponda a soma dos 2 primeiros vetores.

@@ -1,0 +1,1 @@
+Desenvolva um programa para gerar 3 números aleatorios de semente igual a 215, e calcular a média aritmética.

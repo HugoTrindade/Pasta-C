@@ -1,0 +1,1 @@
+Desenvolver um programa para gerar 10 numeros aleatorios com semente 350 e escrever o maior

@@ -1,0 +1,1 @@
+Desenvolver um programa para gerar 4 números aleatórios (80) e carregá-los em um vetor e imprimi-los

@@ -1,0 +1,1 @@
+Desenvolver um programa para gerar um numero random de semente igual a 15. gerar 10 numeros aleatorios de semente igual a 21 e pesquisar e escrever a mensagem correspondente caso o primeiro numero esteja na serie gerada

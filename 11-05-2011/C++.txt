@@ -1,0 +1,29 @@
+inteiro->   int
+real->   float ou double (mais preciso)
+caracter->  char ou string
+mod->  %
+diferente->  !=
+e-> &&
+ou-> ||
+escreva-> cout<< "digite a";
+leia->    cin>> a;
+pular linha-> cout<<endl;
+
+Estrutura:
+
+# include <iostream (biblioteca) >
+using namespace std;
+int main ( )
+{
+int
+
+
+
+system("pause");
+}
+
+Função exponencial e logaritmica:
+#include <math.h>
+usa float
+sintaxe: pow(a,b).
+raiz quadrada: sqrt(a).
