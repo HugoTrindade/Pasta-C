@@ -1,1 +1,0 @@
-Gerar um vetor de 10 elementos com número aleatorios de raiz igual a 40, e escreva o vetor. Troque o quinto elemento com o nono elemento e reescreva o vetor.
