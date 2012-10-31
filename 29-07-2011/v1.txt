@@ -1,0 +1,1 @@
+Desenvolva um programa para gerar um vetor de 5 elementos com números aleatorios de raiz igual a 70 e calcular e imprimir as somas dos elementos
